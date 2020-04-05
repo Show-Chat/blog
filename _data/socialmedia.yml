@@ -1,0 +1,59 @@
+- name: Twitter
+  url: http://twitter.com/costiui
+  class: icon-twitter
+  title: "Costiui"
+
+- name: Facebook
+  url: http://www.facebook.com/CostiuiNet
+  class: icon-facebook
+  title: "Red Social"
+
+#- name: Linkedin
+#  url: http://www.linkedin.com/in/dramor
+#  class: icon-linkedin
+#  title: "Red Social Profesional"
+
+#- name: Soundcloud
+#  url: http://soundcloud.com/phlow
+#  class: icon-soundcloud
+#  title: "Sounds und Downloads und mehr"
+
+- name: Vimeo
+  url: http://vimeo.com/costiui
+  class: icon-vimeo
+  title: "Vimeo"
+
+#- name: Instagram
+#  url: http://instagram.com/costiui.ronaszek
+#  class: icon-instagram
+#  title: "Fotos desde el movil"
+
+- name: Flickr
+  url: https://www.flickr.com/photos/costiui/
+  class: icon-camera
+  title: "Flickr Costiui"
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCvZo-Y043ipjefFW9ONGJ8A
+  class: icon-youtube
+  title: "Videos"
+  
+- name: Tumblr
+  url: https://costiui.tumblr.com/
+  class: icon-tumblr
+  title: "Tumblr"
+  
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+# - name: Xing
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   class: icon-xing
+#   title: Xing Profil
