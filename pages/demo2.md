@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 header:
   image_fullwidth: costiui2020.jpg
 sidebar: right
