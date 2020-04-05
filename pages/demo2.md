@@ -52,7 +52,7 @@ helo
 
 
 <div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
+        <iframe width="420" height="315" src="//www.youtube.com/embed/PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 {% include alert warning='This is a warning.' %}
