@@ -28,10 +28,7 @@ helo
 </div><!-- /.row -->
 
 {% include alert info='Filmari cu drona Costiui' %}
-
-<div class="flex-video">
-        <iframe width="420" height="315" src="//www.youtube.com/embed/PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video_costiui.html %}
 
 {% include alert warning='This is a warning.' %}
 {% include alert info='An info box.' %}
