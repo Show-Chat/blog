@@ -29,14 +29,6 @@ helo
 
 {% include alert info='Filmari cu drona Costiui' %}
 
-<div class="flex-video widescreen vimeo">
-  <iframe src="https://player.vimeo.com/video/336430000" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
- 
- image test
-<img class="t100" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
-
-
 <div class="flex-video">
         <iframe width="420" height="315" src="//www.youtube.com/embed/PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
 </div>
