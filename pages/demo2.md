@@ -27,4 +27,7 @@ image_sliders:
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+
 {% include fb-comment.html %}
+
+<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
