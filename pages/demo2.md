@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 header:
   image_fullwidth: costiui2020.jpg
 sidebar: right
@@ -29,14 +29,5 @@ helo
 
 {% include alert info='Filmari cu drona Costiui' %}
 
-<div class="flex-video widescreen vimeo">
-  <iframe src="https://player.vimeo.com/video/336430000" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
 
-{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}
 {% include video_costiui.html %}
