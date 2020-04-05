@@ -44,7 +44,7 @@ helo
 </div>
 
 <div class="flex-video widescreen vimeo">
-  <iframe src="https://vimeo.com/336430000" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe src="https://player.vimeo.com/video/336430000" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
