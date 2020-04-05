@@ -9,6 +9,7 @@
     - data-src: https://about.costiui.net/img/costiui.jpg
       title: About
       alt: Despre Costiui.Net
+      href: https://about.costiui.net
     - data-src: /img/3.jpg
       data-src-2x: /img/3@2x.jpg
       alt: Use data-src-2x for HiDPI devices
