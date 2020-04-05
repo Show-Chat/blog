@@ -10,12 +10,13 @@
       title: About
       alt: Despre Costiui.Net
       href: https://about.costiui.net
-    - data-src: /img/3.jpg
-      data-src-2x: /img/3@2x.jpg
+    - data-src: https://media.costiui.net/user/tibor-andorfi/ronaszek-kep.jpg
+      data-src-2x: https://media.costiui.net/user/tibor-andorfi/ronaszek-tajkep.jpg
       alt: Use data-src-2x for HiDPI devices
-    - src: /img/4.jpg
-      alt: Links work too
-      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+    - src: https://media.costiui.net/user/tibor-andorfi/ronaszek-tajkep.jpg
+      title: Poze cu Drona
+      alt: Fotografie aeriană cu drona
+      href: https://www.costiui.net/fotografi/poze-cu-drona
   settings:
     height: 400
     initialHeight:
