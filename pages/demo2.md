@@ -28,8 +28,4 @@ image_sliders:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-{% include fb-comment.html %}
-
-fb
-
 <div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
