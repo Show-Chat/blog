@@ -54,3 +54,10 @@ helo
 <div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+{% include alert warning='This is a warning.' %}
+{% include alert info='An info box.' %}
+{% include alert success='Yeah, you made it!' %}
+{% include alert alert='Danger!' %}
+{% include alert terminal='jekyll -serve' %}
+{% include alert text='Just a note!' %}
