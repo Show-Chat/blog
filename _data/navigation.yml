@@ -70,8 +70,8 @@
   url: "/demo/"
   side: left
   
-- title: "Search"
-  url: "/search/"
+- title: "About"
+  url: "https://about.costiui.net"
   side: right
 
 - title: "Contact"
