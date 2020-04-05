@@ -39,8 +39,10 @@ helo
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
-video:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+<div class="flex-video">
+        <iframe width="420" height="315" src="//www.youtube.com/embed/aiBt44rrslw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="flex-video widescreen vimeo">
+  <iframe src="http://player.vimeo.com/video/60122989" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
