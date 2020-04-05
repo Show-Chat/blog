@@ -3,10 +3,12 @@
   captions: true
   images:
     - src: https://foto.costiui.net/media/1.jpg
-      alt: Costiui
+      title: Fotografi Costiui
+      alt: Foto.Costiui.Net
       href: https://foto.costiui.net
-    - data-src: /img/2.jpg
-      alt: Use data-src for on-demand loading
+    - data-src: https://about.costiui.net/img/costiui.jpg
+      title: About
+      alt: Despre Costiui.Net
     - data-src: /img/3.jpg
       data-src-2x: /img/3@2x.jpg
       alt: Use data-src-2x for HiDPI devices
