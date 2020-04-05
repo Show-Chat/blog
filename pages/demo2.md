@@ -29,4 +29,4 @@ image_sliders:
 </div><!-- /.row -->
 
 {% include alert info='Facebook Coment' %}
-<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"</div>
+<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
