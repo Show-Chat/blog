@@ -30,4 +30,6 @@ image_sliders:
 
 {% include fb-comment.html %}
 
+fb
+
 <div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
