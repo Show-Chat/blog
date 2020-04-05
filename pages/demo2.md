@@ -10,8 +10,11 @@ image_sliders:
   - slider2
   - slider3
 ---
-
 {% include slider.html selector="slider1" %}
+
+{% include alert info='Filmari cu drona Costiui' %}
+
+{% include video_costiui.html %}
 
 <div class="row t60">
     <div class="medium-6 columns b30">
@@ -24,8 +27,3 @@ image_sliders:
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-
-{% include alert info='Filmari cu drona Costiui' %}
-
-
-{% include video_costiui.html %}
