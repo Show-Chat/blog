@@ -40,9 +40,11 @@ helo
 </div><!-- /.row -->
 
 <div class="flex-video">
-        <iframe width="420" height="315" src="//www.youtube.com/embed/aiBt44rrslw" frameborder="0" allowfullscreen></iframe>
+        <iframe width="420" height="315" src="https://www.youtube.com/watch?v=PuP1-7USgDI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="flex-video widescreen vimeo">
-  <iframe src="http://player.vimeo.com/video/60122989" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe src="https://vimeo.com/336430000" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
+<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
