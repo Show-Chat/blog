@@ -2,8 +2,9 @@
   bullets: false
   captions: true
   images:
-    - src: /img/1.jpg
-      alt: Minimum required attributes
+    - src: https://foto.costiui.net/media/1.jpg
+      alt: Costiui
+      href: https://foto.costiui.net
     - data-src: /img/2.jpg
       alt: Use data-src for on-demand loading
     - data-src: /img/3.jpg
