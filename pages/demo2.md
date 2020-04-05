@@ -38,3 +38,9 @@ helo
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
+    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
+    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
