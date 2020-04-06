@@ -9,6 +9,7 @@ image_sliders:
   - slider1
   - slider2
   - slider3
+homepage: true 
 ---
 {% include slider.html selector="slider1" %}
 
