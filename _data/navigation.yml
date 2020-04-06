@@ -2,12 +2,6 @@
   url: "/"
   side: left
 
-- title: Fotografi
-  url: "/"
-  side: left
-
-
-
 - title: Sarbatori
   url: "/sarbatori/"
   side: left
@@ -16,9 +10,9 @@
     url: "/8-martie/"
   - title: "Pase Fericit"
     url: "/paste-fericit/"
-  - title: "Craciun Fericit"
+ - title: "Craciun Fericit"
     url: "/craciun-fericit/"  
-- title: "An Nou Fericit"
+ - title: "An Nou Fericit"
     url: "/an-nou-fericit/"  
     
 - title: Blog
