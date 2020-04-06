@@ -2,18 +2,7 @@
   url: "/"
   side: left
 
-- title: "Sarbatori"
-  url: "/sarbatori/"
-  side: left
-  dropdown:
-  - title: "8 Martie"
-    url: "/8-martie/"
-  - title: "Pase Fericit"
-    url: "/paste-fericit/"
- - title: "Craciun Fericit"
-    url: "/craciun-fericit/"  
- - title: "An Nou Fericit"
-    url: "/an-nou-fericit/"  
+
     
 - title: Blog
   url: "/blog/"
