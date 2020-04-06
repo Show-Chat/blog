@@ -30,3 +30,5 @@ image_sliders:
 
 {% include alert info='Facebook Coment' %}
 <div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
+
+{% include newpost.html %}
