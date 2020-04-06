@@ -1,18 +1,12 @@
 - title: Acasa
   url: "/"
   side: left
-
-
-    
+  
 - title: Blog
   url: "/blog/"
   side: left
-    
-- title: COVID19
-  url: "/demo/"
-  side: left
   
-  - title: "Foto"
+- title: "Foto"
   url: "https://foto.costiui.net"
   side: right
   
