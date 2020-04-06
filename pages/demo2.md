@@ -28,8 +28,9 @@ image_sliders:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-{% include alert info='Facebook Coment' %}
-<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
-
 {% include alert info='Ultimul Articol' %}
 {% include newpost.html %}
+
+
+{% include alert info='Facebook Coment' %}
+<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
