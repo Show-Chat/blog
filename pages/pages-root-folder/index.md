@@ -3,8 +3,7 @@ layout: page
 header:
   image_fullwidth: costiui2020.jpg
 sidebar: right
-meta_title: "Demo test page"
-permalink: "/demo2/"
+
 image_sliders:
   - slider1
   - slider2
