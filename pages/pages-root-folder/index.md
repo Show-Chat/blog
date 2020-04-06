@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: frontpage
 header:
   image_fullwidth: costiui2020.jpg
 sidebar: right
-
+meta_title: "Demo test page"
+permalink: "/"
 image_sliders:
   - slider1
   - slider2
