@@ -15,10 +15,10 @@ tags:
 # Styling
 #
 header: 
-    title: header with text
+    title: Filmari Cu Drona
     background-color: "#EFC94C;"
 #    pattern: ronaszek-kep.jpg
-    image_fullwidth: ronaszek-tajkep.jpg
+#    image_fullwidth: ronaszek-tajkep.jpg
 image:
     thumb: ronaszek-kep.jpg
 
