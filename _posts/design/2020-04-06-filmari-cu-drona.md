@@ -5,7 +5,7 @@ layout: v2
 #
 subheadline: "Filmari cu drona"
 title: "Filmari cu drona Costiui"
-teaser: "Filmari cu drona in Costiui - Video Costiui"
+teaser: "Filmari cu drona in Costiui - Video Costiui filmare aeriana"
 categories:
   - video
 tags:
