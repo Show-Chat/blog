@@ -1,6 +1,5 @@
 ---
-layout: page-fullwidth
-format: v2
+layout: v2
 #
 # Content
 #
