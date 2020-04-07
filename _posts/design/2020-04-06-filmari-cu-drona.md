@@ -2,7 +2,6 @@
 layout: page
 show_meta: false
 title: "Filamari cu Drona Costiui"
-thumb: ronaszek-kep.jpg
 tags:
     - filmari cu drona
     - costiui video
@@ -11,6 +10,10 @@ categories:
 header: no   
 image:
 thumb: ronaszek-kep.jpg
+homepage: ronaszek-kep.jpg
+caption: Image by Costiui
+caption_url: "https://www.costiui.net/"
+
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
