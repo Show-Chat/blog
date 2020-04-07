@@ -1,6 +1,6 @@
 ---
 layout: page
-format: video
+format: page-fullwidth
 #
 # Content
 #
