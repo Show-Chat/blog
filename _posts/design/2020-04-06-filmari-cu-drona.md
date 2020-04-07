@@ -16,7 +16,7 @@ tags:
 #
 header: 
     title: Filmari Cu Drona
-    background-color: "#EFC94C;"
+#    background-color: "#EFC94C;"
 #    pattern: ronaszek-kep.jpg
 #    image_fullwidth: ronaszek-tajkep.jpg
 image:
