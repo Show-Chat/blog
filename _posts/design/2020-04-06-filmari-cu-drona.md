@@ -3,11 +3,14 @@ layout: video
 show_meta: false
 title: "Filamari cu Drona Costiui"
 subheadline: "Templates"
-teaser: "If you want to show videos in a large manner, the video template is the right choice."
+teaser: "Filamari cu Drona Costiui."
 tags:
-    - post format
+    - filmari cu drona
+    - costiui video
 categories:
-    - design
+    - articol
+image:
+thumb: costiui2020.jpg
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
