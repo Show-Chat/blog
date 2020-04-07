@@ -1,5 +1,6 @@
 ---
-layout: video
+layout: default
+format: video
 #
 # Content
 #
