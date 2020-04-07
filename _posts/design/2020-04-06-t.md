@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: page
 #
 # Content
 #
