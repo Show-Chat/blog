@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 format: video
 #
 # Content
@@ -10,9 +10,8 @@ teaser: "Do you like music? Or are you a podcaster? Do you want to stream your v
 categories:
   - video
 tags:
-  - audio player
-  - video player
-  - streaming music
+  - video costiui
+  - filmari costiui
 #
 # Styling
 #
