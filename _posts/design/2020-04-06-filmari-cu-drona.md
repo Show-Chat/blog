@@ -2,13 +2,14 @@
 layout: page
 show_meta: false
 title: "Filamari cu Drona Costiui"
+thumb: ronaszek-kep.jpg
 tags:
     - filmari cu drona
     - costiui video
 categories:
     - articol
+header: no   
 image:
-title: ronaszek-kep.jpg
 thumb: ronaszek-kep.jpg
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
