@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: page
 show_meta: false
 title: "Filamari cu Drona Costiui"
 tags:
