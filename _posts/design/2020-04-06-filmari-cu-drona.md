@@ -8,7 +8,8 @@ tags:
 categories:
     - articol
 image:
-thumb: costiui2020.jpg
+title: ronaszek-kep.jpg
+thumb: ronaszek-kep.jpg
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
