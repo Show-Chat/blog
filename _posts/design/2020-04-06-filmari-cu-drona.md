@@ -40,3 +40,4 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
