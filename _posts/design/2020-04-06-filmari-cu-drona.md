@@ -19,9 +19,7 @@ header: no
 image:
     title: costiui2020.jpg
     thumb: ronaszek-kep.jpg
-    homepage: costiui2020.jpg
-    caption: Photo by Costiui
-    caption_url: https://costiui.net/
+
 
 
 
