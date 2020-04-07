@@ -2,8 +2,6 @@
 layout: video
 show_meta: false
 title: "Filamari cu Drona Costiui"
-subheadline: "Templates"
-teaser: "Filamari cu Drona Costiui."
 tags:
     - filmari cu drona
     - costiui video
