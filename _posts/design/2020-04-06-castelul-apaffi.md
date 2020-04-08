@@ -15,7 +15,7 @@ tags:
   - Castelul Apaffi Coștiui
   - Apafi Kastély
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
+#Fostul castel de vânătoare al voievodului Apafi Mihály a fost construit în anul 1689. Din clădirea originală au mai rămas doar subsolul și o cameră, restul suferind modificări de-a lungul anilor. De-a lungul vremii, edificiul a mai fost folosit drept închisoare și reședință a familiilor care au deținut minele de sare de la Coștiui. Intrarea în galeriile subterane a fost zidită în 1986 de îngrijitorii castelului pentru a evita accidentele, întrucât acestea erau în mare parte surpate. 
 <!--more-->
 
 <div class="row">
