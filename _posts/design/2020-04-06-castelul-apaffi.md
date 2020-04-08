@@ -54,7 +54,7 @@ tags:
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}castelul-apaffi.jpg" alt="">
+    <img src="{{ site.urlimg }}castel-costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
