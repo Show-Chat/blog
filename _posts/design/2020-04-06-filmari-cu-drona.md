@@ -38,5 +38,3 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
-{% include alert info='Facebook Coment' %}
-<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
