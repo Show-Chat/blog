@@ -45,8 +45,8 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+      <img src="{{ site.urlimg }}castel-iarna.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}iarna-castel.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
