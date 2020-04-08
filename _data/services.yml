@@ -16,5 +16,4 @@
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
 
-{% include fb-like.html %}
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FCostiui-375546989130993%2F&amp;width=600&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=110&amp;appId=492195450843046" width="600" height="110" frameborder="0" scrolling="no"></iframe>
