@@ -4,7 +4,7 @@ title:  "Castelul Apaffi"
 subheadline:  "Monumente, cladiri istorice si obiecte turistice"
 teaser: "Castelul Apaffi este un monument istoric aflat pe teritoriul satului Coștiui comuna Rona de Sus."
 categories:
-    - monument istoric
+    - monument-istoric
 header:
    image_fullwidth: castelul-apaffi.jpg
 image:
