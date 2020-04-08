@@ -52,5 +52,16 @@ tags:
 </div><!-- /.row -->
 
 
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}castelul-apaffi.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
