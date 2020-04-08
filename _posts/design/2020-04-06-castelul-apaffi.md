@@ -6,13 +6,11 @@ teaser: "Castelul Apaffi este un monument istoric aflat pe teritoriul satului Co
 categories:
     - Monumente-cladiri-istorice-si-obiecte-turistice
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: castelul-apaffi.jpg
    image:
-    title: castelul-apaffi.jpg
     thumb: castelul-apaffi.jpg
     homepage: castelul-apaffi.jpg
-    caption: Photo by Costiui.Net
-    caption_url: https://costiui.net/
+
 tags:
   - Castelul Apaffi
   - Castelul 
