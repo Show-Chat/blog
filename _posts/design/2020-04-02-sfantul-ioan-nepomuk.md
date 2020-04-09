@@ -13,7 +13,7 @@ tags:
   - Statuia
   - Sfântul Ioan Nepomuk
 ---
-</div><!-- /.row -->
+
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}sfi.JPG" alt="">
