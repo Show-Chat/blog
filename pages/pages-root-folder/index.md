@@ -19,8 +19,8 @@ homepage: true
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}ronaszek-kep.jpg" alt="">
-        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+        <img src="{{ site.urlimg }}castelul-apaffi.jpg" alt="https://blog.costiui.net/monument-istoric/castelul-apaffi/">
+        <p>Monumente, cladiri istorice si obiecte turistice <a href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">Castelul Apaffi</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
