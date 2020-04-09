@@ -24,13 +24,27 @@ tags:
 <!--more-->
 
 <div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}ca.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}c-a.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}co.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+<div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}castelul-apaffi.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}ca.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}c-a.jpg" alt="">
+      <img src="{{ site.urlimg }}c-a.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}ca.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
