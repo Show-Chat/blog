@@ -29,7 +29,7 @@ tags:
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}c-a.jpg" alt="">
+      <img src="{{ site.urlimg }}ca.JPG" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
