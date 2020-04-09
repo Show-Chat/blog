@@ -44,7 +44,7 @@ tags:
 
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}800x500_castel_apafi.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}800x500_castel_apafi.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}panoramic-castel-apafi.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
