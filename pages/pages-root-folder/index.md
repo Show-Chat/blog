@@ -25,7 +25,7 @@ homepage: true
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
-        <p><a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmari cu drona Costiui</a></p>
+        <p><a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmare cu drona Costiui</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
