@@ -25,7 +25,7 @@ tags:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}ca.jpg" alt="">
+    <img src="{{ site.urlimg }}cb.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
