@@ -20,12 +20,12 @@ homepage: true
 <div class="row t60">
     <div class="medium-6 columns b30">
 <img src="{{ site.urlimg }}castel-apaffi-costiui.jpg"  alt="monument istoric castelul apaffi">
-        <p>Monumente, cladiri istorice si obiecte turistice <a href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">Castelul Apaffi</a></p>
+        <p><a href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">Castelul Apaffi</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
-        <p>Website: <a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmari cu drona Costiui</a></p>
+        <p><a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmari cu drona Costiui</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
