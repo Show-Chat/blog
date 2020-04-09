@@ -11,12 +11,17 @@
       alt: Despre Costiui.Net
       href: https://about.costiui.net
     - data-src: https://media.costiui.net/user/tibor-andorfi/ronaszek-kep.jpg
-      data-src-2x: https://media.costiui.net/user/tibor-andorfi/ronaszek-tajkep.jpg
-      alt: Use data-src-2x for HiDPI devices
+      data-src-2x: /images/ronaszek-tajkep.jpg
+      alt: Filmare cu Dron Costiui
+      href: https://blog.costiui.net/video/filmari-cu-drona
     - src: https://media.costiui.net/user/tibor-andorfi/ronaszek-tajkep.jpg
       title: Poze cu Drona
       alt: Fotografie aeriană cu drona
       href: https://www.costiui.net/fotografi/poze-cu-drona
+    - src: /images/castelul-apaffi.jpg
+      title: Castelul Apaffi
+      alt: Castelul Apaffi Costiui
+      href: https://blog.costiui.net/monument-istoric/castelul-apaffi
   settings:
     height: 400
     initialHeight:
