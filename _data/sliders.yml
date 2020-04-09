@@ -2,7 +2,7 @@
   bullets: false
   captions: true
   images:
-    - src: https://foto.costiui.net/media/1.jpg
+    - src: /img/foto.jpg
       title: Fotografi Costiui
       alt: Foto.Costiui.Net
       href: https://foto.costiui.net
