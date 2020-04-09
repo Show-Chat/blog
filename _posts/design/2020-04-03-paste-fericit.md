@@ -10,11 +10,9 @@ header:
 image:
     thumb: paste_fericit.jpg   
 tags:
-  - Castelul Apaffi
-  - Castelul 
-  - Castelul Apaffi Coștiui
-  - Apafi Kastély
----
+  - Un Paşte fericit
+  - Sărbători frumoase
+
 ### Hristos a Inviat! 
 
 <!--more-->
@@ -26,3 +24,4 @@ tags:
  </div>
 
 #### Pastele ne daruieste veselie , Pastele ne ofera fericire .Pastele ne aduce nemarginita binecuvantare a Domnului , Pastele ne copleseste cu o proaspata iubire … Un Paste fericit si cele mai sincere urari de bine !
+---
