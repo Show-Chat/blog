@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "Sfântul Ioan Nepomuk"
 subheadline:  "Statuia Sfântul Ioan Nepomuk din Coștiui"
-teaser: "Statuia Sfântul Ioan Nepomuk din Coștiui este un monument istoric aflat pe teritoriul satului Coștiui; comuna Rona de Sus."
+teaser: "Statuia Sfântul Ioan Nepomuk din Coștiui este un monument istoric aflat pe teritoriul satului Coștiui comuna Rona de Sus."
 categories:
     - monument-istoric
 header:
