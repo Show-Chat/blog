@@ -10,8 +10,9 @@
       title: About
       alt: Despre Costiui.Net
       href: https://about.costiui.net
-    - data-src: https://media.costiui.net/user/tibor-andorfi/ronaszek-kep.jpg
+    - data-src: /images/ronaszek-kep.jpg
       data-src-2x: /images/ronaszek-tajkep.jpg
+      title: Video Costiui
       alt: Filmare cu Dron Costiui
       href: https://blog.costiui.net/video/filmari-cu-drona
     - src: https://media.costiui.net/user/tibor-andorfi/ronaszek-tajkep.jpg
