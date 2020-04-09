@@ -13,7 +13,7 @@ tags:
   - Statuia
   - Sfântul Ioan Nepomuk
 ---
-
+### Monumentul lui Sf. Ioan de Nepomuk (în maghiara: Nepomuki Szent János emlékmu), patronul minelor, dateaza din anul 1742
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}sfi.JPG" alt="">
