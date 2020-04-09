@@ -1,8 +1,8 @@
 - selector: slider1
-  bullets: false
+  bullets: true
   captions: true
   images:
-    - src: /img/foto.jpg
+    - src: /img/costiui2020.jpg
       title: Fotografi Costiui
       alt: Foto.Costiui.Net
       href: https://foto.costiui.net
