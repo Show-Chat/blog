@@ -21,7 +21,7 @@ tags:
 
 
 <div class="row">
-    <div class="medium-8 columns t30">
+    <div class="medium-12 columns t30">
     <img src="{{ site.urlimg }}paste_fericit.jpg" alt="">
  </div>
 
