@@ -43,8 +43,8 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}c-a.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}c-a.jpg" alt="">
+      <img src="{{ site.urlimg }}800x400_castel_apafi.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}800x400_castel_apafi.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
