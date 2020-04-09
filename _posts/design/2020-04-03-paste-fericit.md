@@ -24,3 +24,5 @@ tags:
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}paste_fericit.jpg" alt="">
  </div>
+
+#### Pastele ne daruieste veselie , Pastele ne ofera fericire .Pastele ne aduce nemarginita binecuvantare a Domnului , Pastele ne copleseste cu o proaspata iubire … Un Paste fericit si cele mai sincere urari de bine !
