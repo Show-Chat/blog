@@ -6,9 +6,9 @@ teaser: "Capela Fecioara Maria (în maghiara: Szuz Mária kápolna), a fost cons
 categories:
     - capela
 header:
-   image_fullwidth: capela-sf-ana.jpg 	
+   image_fullwidth: capela-fecioara-maria-costiui.jpg	
 image:
-    thumb: capela-sf-ana.jpg 	
+    thumb: capela-fecioara-maria-costiui.jpg	
 tags:
   - Capela Fecioara Maria
 ---
