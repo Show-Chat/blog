@@ -6,9 +6,9 @@ teaser: "Biserica Romano-Catolica Sfanta Cruce din Costiui"
 categories:
     - biserica
 header:
-   image_fullwidth: castelul-apaffi.jpg
+   image_fullwidth: biserica-romano-catolica-costiui.jpg
 image:
-    thumb: castelul-apaffi.jpg   
+    thumb: biserica-romano-catolica-costiui.jpg   
 tags:
   - Biserica 
   - Biserica Romano-Catolica
