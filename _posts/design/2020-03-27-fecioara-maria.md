@@ -13,12 +13,8 @@ tags:
   - Capela Fecioara Maria
 ---
 
-
-</div><!-- /.row -->
 <div class="row">
     <div class="medium-15 columns t30">
-    <img src="{{ site.urlimg }} 	capela-fecioara-maria-costiui.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
-
-
-</div><!-- /.row -->
+    <img src="{{ site.urlimg }}capela-fecioara-maria-costiui.jpg" alt="">
+    </div>
+</div>
