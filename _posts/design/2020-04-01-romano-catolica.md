@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title:  "Biserica Romano-Catolica"
-subheadline:  "Biserica Romano-Catolica Sf. Ioan din Costiui "
-teaser: "Biserica Romano-Catolica Sfanta Cruce din Costiui"
+title:  "Biserica Romano Catolica"
+subheadline:  "Biserica Romano Catolica Sf. Ioan din Costiui "
+teaser: "Biserica Romano Catolica Sfanta Cruce din Costiui"
 categories:
     - biserica
 header:
