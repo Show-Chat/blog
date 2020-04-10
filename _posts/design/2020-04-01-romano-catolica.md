@@ -19,15 +19,15 @@ tags:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}cc.jpg" alt="">
+    <img src="{{ site.urlimg }}a1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}ca.JPG" alt="">
+      <img src="{{ site.urlimg }}a2.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}cd.jpg" alt="">
+      <img src="{{ site.urlimg }}a3.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
