@@ -33,7 +33,7 @@ tags:
 </div><!-- /.row -->
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}biserica-r-costiui.jpg" alt="">
+    <img src="{{ site.urlimg }}biserica-rc-costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
