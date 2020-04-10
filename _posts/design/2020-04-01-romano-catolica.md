@@ -50,10 +50,8 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}castel-iarna.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}iarna-castel.jpg" alt="">
+      <img src="{{ site.urlimg }}a5.jpg" alt="">
+  
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
- [1]: http://foundation.zurb.com/docs/components/grid.html
