@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Biserica Romano-Catolica"
-subheadline:  "Monumente, cladiri istorice si obiecte turistice"
+subheadline:  "Biserica Romano-Catolica Sf. Ioan din Costiui "
 teaser: "Biserica Romano-Catolica Sfanta Cruce din Costiui"
 categories:
     - biserica
@@ -13,12 +13,8 @@ tags:
   - Biserica 
   - Biserica Romano-Catolica
 ---
-##### Fostul castel de vânătoare al voievodului Apafi Mihály a fost construit în anul 1689. 
-##### Din clădirea originală au mai rămas doar subsolul și o cameră, restul suferind modificări de-a lungul anilor. 
-##### De-a lungul vremii, edificiul a mai fost folosit drept închisoare și reședință a familiilor care au deținut minele de sare de la Coștiui. 
-##### Intrarea în galeriile subterane a fost zidită în 1986 de îngrijitorii castelului pentru a evita accidentele, întrucât acestea erau în mare parte surpate.
-##### Nu s-au păstrat date cu privire la primele faze ale construcției clădirii cu trei nivele, construită în 1689, dar se știe că aspectul de azi l-a primit în urma modificărilor anterioare. 
-##### Fostul castel de vânătoare al voievodului Apafi Mihály din sec. XVII (așa-numitul „Castelul Apafi”) a devenit sediul conducerii al minei de sare.
+##### Biserica Romano-catolica Sf. Ioan din Costiui (în maghiara: Rónaszéki Római Katolikus Szent János templom), a fost construita între anii 1807-1812, si renovat exteriorul în 1995, iar interiorul în anul 1997.
+
 <!--more-->
 
 <div class="row">
