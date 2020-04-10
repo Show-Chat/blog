@@ -37,7 +37,7 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}a5.jpg" alt="">
+      <img src="{{ site.urlimg }}a6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
