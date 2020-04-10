@@ -6,7 +6,7 @@ teaser: "Biserica Greco Catolica din Costiui (în maghiara: Rónaszéki Görög 
 categories:
     - biserica
 header:
-   image_fullwidth: castelul-apaffi.jpg
+   image_fullwidth: biserica_uc.jpg
 image:
     thumb: biserica.jpg   
 tags:
@@ -25,17 +25,3 @@ tags:
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
-
-<div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}cc.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}ca.JPG" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}cd.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
