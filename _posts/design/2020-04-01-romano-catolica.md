@@ -18,6 +18,7 @@ tags:
 <!--more-->
 
 <div class="row">
+    
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}a1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
@@ -31,7 +32,9 @@ tags:
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+
 <div class="row">
+    
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}biserica-rc-costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
@@ -39,17 +42,6 @@ tags:
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}a6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-
+    
 </div><!-- /.row -->
 
-<div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}castel-costiui.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}iarna-castel.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}iarna-castel.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
