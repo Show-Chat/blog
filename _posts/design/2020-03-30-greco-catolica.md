@@ -21,8 +21,7 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}castel-iarna.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}iarna-castel.jpg" alt="">
+      <img src="{{ site.urlimg }}biserica_greco-catolica.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
