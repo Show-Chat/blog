@@ -13,6 +13,8 @@ tags:
   - Biserica
   - Biserica Greco Catolica
 ---
+#### Parohia Greco-Catolică (Ucraineană) Coştiui, Maramureş
+#### Biserica "Adormirea Maicii Domnului"
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}biserica.jpg" alt="">
