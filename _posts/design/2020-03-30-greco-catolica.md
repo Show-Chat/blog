@@ -21,7 +21,7 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img class="t30" src="{{ site.urlimg }}biserica_greco-catolica.jpg" alt="">
+      <img class="t20" src="{{ site.urlimg }}biserica_greco-catolica.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
