@@ -5,7 +5,7 @@ layout: v2
 #
 subheadline: "Filmari cu drona"
 title: "Filmari cu drona Costiui"
-teaser: "Azi am sa postez un fimulet cu o filmare din drona filmat in Costiui"
+teaser: "Azi am sa postez un fimulet cu o filmare din drona filmat in Costiui 2019"
 categories:
   - video
 tags:
@@ -38,3 +38,8 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
+ <div id="bottom" class="row t30">
+    <div class="small-12 columns">
+       {% include next-previous-post-in-category %}
+    </div><!-- /.small-12.columns -->
+</div>
