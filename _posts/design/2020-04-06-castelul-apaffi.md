@@ -64,6 +64,12 @@ tags:
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
  
+ <div id="bottom" class="row t30">
+    <div class="small-12 columns">
+       {% include next-previous-post-in-category %}
+    </div><!-- /.small-12.columns -->
+</div>
+ 
 All Header-Styles
 {: .t60 }
 
