@@ -38,8 +38,3 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
- <div id="bottom" class="row t30">
-    <div class="small-12 columns">
-       {% include next-previous-post-in-category %}
-    </div><!-- /.small-12.columns -->
-</div>
