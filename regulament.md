@@ -1,15 +1,21 @@
 ---
 layout: page-fullwidth
 title:  "Regulament comentari prin Facebook"
-subheadline:  "Regulament"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+subheadline:  "Regulament comentari/discuți"
+teaser: "Regulament ."
 categories:
     - regulament
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
 ### Participă la discuțiile online
-#### Pentru a posta ti se va cere va te connectezi cu facebook ul 
+##### Pentru a posta ti se va cere va te connectezi cu facebook ul 
+##### Când vă conectați prin rețele sociale, Costiui.Net vă poate cere să acordați permisiuni pentru a citi sau a efectua anumite acțiuni sociale.
+##### Accesează numai următoarele informații (în conformitate cu Politica de confidențialitate a acestui site):
+##### Numele persoanei
+##### Adresa de email
+##### Costiui.Net nu colectează niciodată alte date și niciodată nu publică nimic în rețelele sociale din numele dvs. fără permisiunea dvs.
+##### 
+
