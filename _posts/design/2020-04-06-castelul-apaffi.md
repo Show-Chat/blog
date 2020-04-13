@@ -69,8 +69,3 @@ tags:
        {% include next-previous-post-in-category %}
     </div><!-- /.small-12.columns -->
 </div>
- 
-All Header-Styles
-{: .t60 }
-
-{% include list-posts tag='costiui' %}
