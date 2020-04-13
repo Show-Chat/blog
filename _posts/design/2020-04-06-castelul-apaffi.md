@@ -63,5 +63,3 @@ tags:
 </div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
- 
-{% include next-previous-post-in-category %} 
