@@ -15,12 +15,11 @@ tags:
   - rezervație naturală
   - larice
 ---
-##### Fostul castel de vânătoare al voievodului Apafi Mihály a fost construit în anul 1689. 
-##### Din clădirea originală au mai rămas doar subsolul și o cameră, restul suferind modificări de-a lungul anilor. 
-##### De-a lungul vremii, edificiul a mai fost folosit drept închisoare și reședință a familiilor care au deținut minele de sare de la Coștiui. 
-##### Intrarea în galeriile subterane a fost zidită în 1986 de îngrijitorii castelului pentru a evita accidentele, întrucât acestea erau în mare parte surpate.
-##### Nu s-au păstrat date cu privire la primele faze ale construcției clădirii cu trei nivele, construită în 1689, dar se știe că aspectul de azi l-a primit în urma modificărilor anterioare. 
-##### Fostul castel de vânătoare al voievodului Apafi Mihály din sec. XVII (așa-numitul „Castelul Apafi”) a devenit sediul conducerii al minei de sare.
+##### Rezervatia s-a constituit ca arie protejata prin Legea nr. 5/2000 privind aprobarea Planului de Amenajarea Teritoriului National - sectiunea III - a zone protejate, având codul 2576. 
+##### Aceasta se afla în custodia Directiei Silvice Baia Mare în baza prevederilor Ordonantei de urgenta a Guvernului nr. 236/2000 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei si faunei salbatice, aprobata cu modificari prin Legea nr. 462/2001 prin Ordinul nr. 850/2003 privind încredintarea administrarii sau atribuirii custodiei ariilor naturale.
+##### În Legea nr. 5/2000 rezervatia apare sub tiparul de „Rezervatia Padurea de larice Costiui” în suprafata de 0,70 ha.
+##### Rezervatia Padurea de larice Costiui, este o rezervatie forestiera, constituita din exemplare viguroase de larice (Larix decidua).
+
 <!--more-->
 
 <div class="row">
