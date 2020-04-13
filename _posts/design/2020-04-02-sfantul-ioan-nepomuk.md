@@ -25,3 +25,8 @@ tags:
 
 </div><!-- /.row -->
 
+ <div id="bottom" class="row t30">
+    <div class="small-12 columns">
+       {% include next-previous-post-in-category %}
+    </div><!-- /.small-12.columns -->
+</div>
