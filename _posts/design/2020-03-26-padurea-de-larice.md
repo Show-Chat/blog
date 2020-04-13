@@ -6,9 +6,9 @@ teaser: "Pădurea de larice Coștiui este o arie protejată de interes național
 categories:
     - rezervatie-naturala
 header:
-   image_fullwidth: castelul-apaffi.jpg
+   image_fullwidth: padurea_de_larice.jpg
 image:
-    thumb: castelul-apaffi.jpg   
+    thumb: padurea_costiui.jpg  
 tags:
   - Pădurea de larice Coștiui
   - Pădurea de larice
