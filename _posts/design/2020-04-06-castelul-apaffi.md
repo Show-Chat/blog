@@ -63,4 +63,8 @@ tags:
 </div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
+ 
+All Header-Styles
+{: .t60 }
+
 {% include list-posts tag='costiui' %}
