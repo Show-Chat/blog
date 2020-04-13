@@ -17,5 +17,6 @@ header:
 ##### Numele persoanei
 ##### Adresa de email
 ##### Costiui.Net nu colectează niciodată alte date și niciodată nu publică nimic în rețelele sociale din numele dvs. fără permisiunea dvs.
-##### 
+
+### Utilizatorii accepta termeni și condiții prin respectarea următoarelor reguli de folosire a acestui site.
 
