@@ -63,3 +63,8 @@ tags:
 </div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
+show_meta: true
+
+## Other Post Formats
+{: .t60 }
+{% include list-posts tag='post format' %}
