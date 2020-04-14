@@ -24,11 +24,11 @@ tags:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}padurea_costiui.jpg" alt="">
+    <img src="{{ site.urlimg }}costiui_pl.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}ca.JPG" alt="">
+      <img src="{{ site.urlimg }}padurea_de_larice.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
@@ -54,8 +54,7 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}castel-iarna.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}iarna-castel.jpg" alt="">
+      <img src="{{ site.urlimg }}padurea_c.jpg 	" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
