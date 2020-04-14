@@ -35,7 +35,7 @@ tags:
 </div><!-- /.row -->
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}bazin_costiui.jpg" alt="">
+    <img src="{{ site.urlimg }}baile-costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
@@ -48,12 +48,12 @@ tags:
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}baile-costiui.jpg" alt="">
+    <img src="{{ site.urlimg }}bazin_costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}bazin_costiui.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}panoramic_baile.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}bazinul_cu_apa_sarata.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
