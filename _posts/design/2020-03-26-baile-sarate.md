@@ -39,8 +39,8 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}800x500_castel_apafi.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}panoramic-castel-apafi.jpg" alt="">
+      <img src="{{ site.urlimg }}b6.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}b7.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -52,8 +52,8 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}bazin_costiui.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}bazinul_cu_apa_sarata.jpg" alt="">
+      <img src="{{ site.urlimg }}bazinul_cu_apa_sarata.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}panoramic_baile.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
