@@ -24,7 +24,7 @@ tags:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}cc.jpg" alt="">
+    <img src="{{ site.urlimg }}padurea_costiui.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
@@ -38,12 +38,11 @@ tags:
 </div><!-- /.row -->
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}castelul-apaffi.jpg" alt="">
+    <img src="{{ site.urlimg }}padurea_costiui.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}800x500_castel_apafi.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}panoramic-castel-apafi.jpg" alt="">
+      <img src="{{ site.urlimg }}padurea_a.jpg 	" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -51,7 +50,7 @@ tags:
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}castel-costiui.jpg" alt="">
+    <img src="{{ site.urlimg }}padurea_b.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
