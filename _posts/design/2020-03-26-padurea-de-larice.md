@@ -32,7 +32,7 @@ tags:
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}cd.jpg" alt="">
+      <img src="{{ site.urlimg }}padurea_d.jpg " alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
