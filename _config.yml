@@ -148,7 +148,7 @@ defaults:
 # bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
-
+gtag: 'UA-147213854-4'
 
 
 #       ______            _
