@@ -14,11 +14,11 @@ Twitter: {{ author.twitter }}{% endif %}
 
 /* THANKS */
 
-Name: Moritz »mo.« Sauer
+Name: Costiui »Costiui.Net« Ronaszek
 Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
+Site: https://costiui.net/
+Twitter: @costiui
+Theme: https://costiui.github.io/blog/
 
 
 /* SITE */
