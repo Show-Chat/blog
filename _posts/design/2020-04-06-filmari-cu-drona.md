@@ -21,7 +21,7 @@ header:
 #    image_fullwidth: ronaszek-tajkep.jpg
 image:
     thumb: ronaszek-kep.jpg
-Mulțumesc frumos dl T. Andorfi pentru videoclip
+###### Mulțumesc frumos dl T. Andorfi pentru videoclip
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
