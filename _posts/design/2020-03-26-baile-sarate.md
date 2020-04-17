@@ -16,7 +16,7 @@ tags:
 ---
 ##### Baile sarate de la Costiui au fost deschise în anul 1967.
 ##### În prezent, Băile Coștiui nu funcționează. (2020-03-08)
-
+####### Băile Coştiui aparţin Consiliului Local Rona de Sus http://www.primariaronadesus.ro/
 <!--more-->
 
 <div class="row">
