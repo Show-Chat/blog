@@ -25,8 +25,8 @@ homepage: true
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
-        <a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmare cu drona Costiui</a>
-	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.more }}</a>
+       
+	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.more }}Filmare cu drona Costiui</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
