@@ -20,7 +20,9 @@ homepage: true
 <div class="row t60">
     <div class="medium-6 columns b30">
 <img src="{{ site.urlimg }}castel-apaffi-costiui.jpg"  alt="monument istoric castelul apaffi">
-        <a href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">Castelul Apaffi</a>
+	    <div align="center">Castelul Apaffi</div>
+	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.more }}</a>
+       
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
