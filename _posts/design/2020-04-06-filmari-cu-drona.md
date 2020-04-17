@@ -5,7 +5,7 @@ layout: v2
 #
 subheadline: "Filmare cu drona"
 title: "Filmari cu drona Costiui"
-teaser: "Filmare cu drona Costiui 2019"
+teaser: "Filmare cu drona Costiui 2019 trimis de catre T. Andorfi"
 categories:
   - video
 tags:
