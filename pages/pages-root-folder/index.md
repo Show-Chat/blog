@@ -22,8 +22,8 @@ homepage: true
 <img src="{{ site.urlimg }}castel-apaffi-costiui.jpg"  alt="monument istoric castelul apaffi">
 	    <div align="center">Castelul Apaffi</div>
 	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.more }}</a>
-       
     </div><!-- /.medium-6.columns -->
+{{ site.data citeste mai departe }}
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
