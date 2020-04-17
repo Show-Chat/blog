@@ -26,6 +26,7 @@ homepage: true
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
         <a href="https://blog.costiui.net/video/filmari-cu-drona/">Filmare cu drona Costiui</a>
+	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.more }}</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -35,8 +36,4 @@ homepage: true
 
 {% include alert info='Facebook Coment' %}
 <div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
-
-
-	<a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a>
-	{% endif %}
 
