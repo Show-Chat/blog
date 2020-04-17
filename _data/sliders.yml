@@ -6,23 +6,43 @@
       title: Fotografi Costiui
       alt: Foto.Costiui.Net
       href: https://foto.costiui.net
+      
+    - src: /images/padurea_costiui.jpg
+      title: Pădurea de Larice
+      alt: Pădurea de larice Coștiui
+      href: https://blog.costiui.net/rezervatie-naturala/padurea-de-larice
+      
     - data-src: /images/costiui2020.jpg
       title: About
       alt: Despre Costiui.Net
       href: https://about.costiui.net
+      
     - data-src: /images/ronaszek-kep.jpg
       data-src-2x: /images/ronaszek-tajkep.jpg
       title: Video Costiui
       alt: Filmare cu Dron Costiui
       href: https://blog.costiui.net/video/filmari-cu-drona
+      
     - src: /images/ronaszek-tajkep.jpg
       title: Poze cu Drona
       alt: Fotografie aeriană cu drona
       href: https://www.costiui.net/fotografi/poze-cu-drona
+      
     - src: /images/castelul-apaffi.jpg
       title: Castelul Apaffi
       alt: Castelul Apaffi Costiui
       href: https://blog.costiui.net/monument-istoric/castelul-apaffi
+      
+    - src: /images/sfi.JPG
+      title: Sfântul Ioan Nepomuk
+      alt: Statuia Sfântul Ioan Nepomuk din Coștiui
+      href: https://blog.costiui.net/monument-istoric/sfantul-ioan-nepomuk
+      
+    - src: /images/biserica-rc-costiui.jpg
+      title: Biserica Romano Catolica
+      alt: Biserica Romano Catolica Sf. Ioan din Costiui
+      href: https://blog.costiui.net/biserica/romano-catolica
+      
   settings:
     height: 400
     initialHeight:
