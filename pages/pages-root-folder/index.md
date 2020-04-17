@@ -24,6 +24,7 @@ homepage: true
 	    <div align="center">Castelul Apaffi</div>
 	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.read2 }}</a>
     </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b30">
     <a href="/video/filmari-cu-drona">
