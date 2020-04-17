@@ -18,7 +18,6 @@
       href: https://about.costiui.net
       
     - data-src: /images/ronaszek-kep.jpg
-      data-src-2x: /images/ronaszek-tajkep.jpg
       title: Video Costiui
       alt: Filmare cu Dron Costiui
       href: https://blog.costiui.net/video/filmari-cu-drona
@@ -42,6 +41,31 @@
       title: Biserica Romano Catolica
       alt: Biserica Romano Catolica Sf. Ioan din Costiui
       href: https://blog.costiui.net/biserica/romano-catolica
+      
+    - src: /images/biserica.jpg
+      title: Biserica Greco Catolică
+      alt: Biserica Greco Catolică din Coștiui
+      href: https://blog.costiui.net/biserica/greco-catolica
+      
+    - src: /images/biserica-calvaria.jpg
+      title: Biserica Calvaria
+      alt: Biserica Calvaria din Coștiui
+      href: https://blog.costiui.net/biserica/calvaria
+      
+    - src: /images/capela-sf-ana.jpg
+      title: Capela Sf. Ana
+      alt: Capela Sf. Ana din Coștiui
+      href: https://blog.costiui.net/capela/sf-ana
+      
+    - src: /images/capela-fecioara-maria-costiui.jpg
+      title: Capela Fecioara Maria
+      alt: Capela Fecioara Maria din Coștiui
+      href: https://blog.costiui.net/capela/fecioara-maria
+      
+    - src: /images/bazin_costiui.jpg
+      title: Băile Coștiui
+      alt: băile sărate de la Coștiui
+      href: https://blog.costiui.net/balneare/baile-sarate
       
   settings:
     height: 400
