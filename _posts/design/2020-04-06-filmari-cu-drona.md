@@ -16,12 +16,12 @@ tags:
 #
 header: 
      title: Filmare cu drona
-     background-color: "#EFC94C;"
-     pattern: ronaszek-kep.jpg
+#    background-color: "#EFC94C;"
+#    pattern: ronaszek-kep.jpg
 #    image_fullwidth: ronaszek-tajkep.jpg
 image:
     thumb: ronaszek-kep.jpg
-
+Mulțumesc frumos dl T. Andorfi pentru videoclip
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PuP1-7USgDI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
@@ -38,4 +38,3 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
-###### Mulțumesc frumos dl T. Andorfi pentru videoclip
