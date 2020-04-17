@@ -21,13 +21,13 @@ homepage: true
     <div class="medium-6 columns b30">
 <img src="{{ site.urlimg }}castel-apaffi-costiui.jpg"  alt="monument istoric castelul apaffi">
 	    <div align="center">Castelul Apaffi</div>
-	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.more }}</a>
+	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.read2 }}</a>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="">
+        <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="filmare cu dron costiui">
        <div align="center">Filmare cu drona Costiui</div>
-	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.more }}</a>
+	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.read2 }}</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
