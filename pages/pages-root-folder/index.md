@@ -46,3 +46,18 @@ widget2:
   url: 'https://phlow.github.io/feeling-responsive/info/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="https://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+<div class="medium-4 columns frontpage-widget">
+	{% if include.widget.video %}
+		{{ include.widget.video }}
+	{% elsif widget_url == empty %}
+		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+	{% else %}
+		<a href="{{ widget_url }}">
+			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+		</a>
+	{% endif %}
+	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+
+	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
+</div>
