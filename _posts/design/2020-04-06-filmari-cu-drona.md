@@ -18,7 +18,7 @@ header:
     title: Filmare cu drona
 #    background-color: "#EFC94C;"
 #    pattern: ronaszek-kep.jpg
-#    image_fullwidth: ronaszek-tajkep.jpg
+image_fullwidth: ronaszek-tajkep.jpg
 image:
     thumb: ronaszek-kep.jpg
 
