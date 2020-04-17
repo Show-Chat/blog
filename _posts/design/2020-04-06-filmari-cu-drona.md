@@ -3,9 +3,9 @@ layout: v2
 #
 # Content
 #
-subheadline: "Filmari cu drona"
+subheadline: "Filmare cu drona"
 title: "Filmari cu drona Costiui"
-teaser: "Azi am sa postez un fimulet cu o filmare din drona filmat in Costiui 2019"
+teaser: "Filmare cu drona Costiui 2019"
 categories:
   - video
 tags:
@@ -15,7 +15,7 @@ tags:
 # Styling
 #
 header: 
-    title: Filmari Cu Drona
+    title: Filmare cu drona
 #    background-color: "#EFC94C;"
 #    pattern: ronaszek-kep.jpg
 #    image_fullwidth: ronaszek-tajkep.jpg
@@ -38,3 +38,4 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
+Mulțumesc frumos dl T. Andorfi pentru videoclip
