@@ -38,4 +38,4 @@ video:
     contentURL: "https://www.youtube.com/watch?v=PuP1-7USgDI"
     thumbnailUrl: "https://img.youtube.com/vi/PuP1-7USgDI/maxresdefault.jpg"
 ---
-Mulțumesc frumos dl T. Andorfi pentru videoclip
+###### Mulțumesc frumos dl T. Andorfi pentru videoclip
