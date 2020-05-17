@@ -24,3 +24,5 @@ tags:
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+
+[link to Google!](http://google.com)
