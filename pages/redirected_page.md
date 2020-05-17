@@ -1,7 +1,7 @@
 ---
-title: "A website that doesn't exit"
+title: "Intretinere website"
 layout: redirect
 sitemap: false
-permalink: /redirect-page/
-redirect_to:  "https://www.costiui.net"
+permalink: /blog/
+redirect_to:  "https://intretinere.costiui.net/"
 ---
