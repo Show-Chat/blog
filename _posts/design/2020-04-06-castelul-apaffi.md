@@ -62,4 +62,5 @@ tags:
 
 </div><!-- /.row -->
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+Foto by [Bacea Anton](https://antonbaceaphotos.blogspot.com/) & [Costiui.Net](http://costiui.net)
+
