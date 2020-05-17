@@ -20,7 +20,7 @@ tags:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}statuia-sfantul-Ioan-nepomuk-din-costiui.jpg" alt="https://commons.wikimedia.org/wiki/User:%C8%9Aetcu_Mircea_Rare%C8%99">
+      <img src="{{ site.urlimg }}statuia-sfantul-Ioan-nepomuk-din-costiui.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
