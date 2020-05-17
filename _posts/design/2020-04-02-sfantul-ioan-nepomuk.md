@@ -8,7 +8,7 @@ categories:
 header:
    image_fullwidth: 
 image:
-    thumb: sfi.JPG  
+    thumb:  
 tags:
   - Statuia
   - Sfântul Ioan Nepomuk
