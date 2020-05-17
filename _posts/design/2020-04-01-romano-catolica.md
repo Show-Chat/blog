@@ -44,3 +44,6 @@ tags:
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
+
+Foto by [Ţetcu Mircea Rareş](https://commons.wikimedia.org/wiki/User:%C8%9Aetcu_Mircea_Rare%C8%99) & [Bacea Anton](https://antonbaceaphotos.blogspot.com/)
+
