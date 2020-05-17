@@ -25,4 +25,4 @@ tags:
 
 </div><!-- /.row -->
 
-[link to Google!](http://google.com)
+Foto by [Ţetcu Mircea Rareş](https://commons.wikimedia.org/wiki/User:%C8%9Aetcu_Mircea_Rare%C8%99)
