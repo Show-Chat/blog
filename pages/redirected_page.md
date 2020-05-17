@@ -2,6 +2,6 @@
 title: "Intretinere website"
 layout: redirect
 sitemap: false
-permalink: /blog/
+permalink: /blog
 redirect_to:  "https://intretinere.costiui.net/"
 ---
