@@ -35,8 +35,3 @@ homepage: true
 
 {% include alert info='Ultimul Articol' %}
 {% include newpost.html %}
-
-
-{% include alert info='Facebook Coment' %}
-<div class="fb-comments" data-href="https://www.facebook.com/CostiuiNet" data-width="" data-numposts="5"></div>
-
