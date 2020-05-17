@@ -26,4 +26,5 @@ tags:
 
 </div><!-- /.row -->
 
-Foto by [Costiui.Net](http://costiui.net)
+Foto by [Ţetcu Mircea Rareş](https://commons.wikimedia.org/wiki/User:%C8%9Aetcu_Mircea_Rare%C8%99) &
+ [Costiui.Net](http://costiui.net)
