@@ -25,3 +25,5 @@ tags:
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+
+Foto by [Costiui.Net](http://costiui.net)
