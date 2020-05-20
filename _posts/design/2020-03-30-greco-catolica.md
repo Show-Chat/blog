@@ -17,9 +17,9 @@ tags:
 #### Biserica "Adormirea Maicii Domnului"
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}biserica.jpg" alt="">
+    <img src="{{ site.urlimg }}biserica.jpg" title="biserica greco catolica" alt="">
     </div><!-- /.medium-8.columns -->
-[Costiui.Net](http://costiui.net)
+
     <div class="medium-4 columns t30">
       <img class="t20" src="{{ site.urlimg }}biserica_greco-catolica.jpg" title="biserica greco catolica" alt="">
     </div><!-- /.medium-4.columns -->
