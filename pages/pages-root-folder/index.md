@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: costiui2020.jpg
+  image_fullwidth: showchat.jpg
 sidebar: right
 
 image_sliders:
