@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
   Costiui: # replace this with your info
-  name: "Costiui"
+  name: "ShowChat"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://costiui.net/
+  uri: https://showchat.tk/
   email:
-  twitter: "costiui"
+  twitter: "ShowChat"
 # you can add more authors here
