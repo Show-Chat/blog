@@ -1,12 +1,12 @@
 - name: Twitter
-  url: http://twitter.com/costiui
+  url: http://twitter.com/showchat
   class: icon-twitter
-  title: "Costiui"
+  title: "Twitter ShowChat"
 
 - name: Facebook
-  url: http://www.facebook.com/CostiuiNet
+  url: http://www.facebook.com/ShowChat
   class: icon-facebook
-  title: "Red Social"
+  title: "FaceBook ShowChat"
 
 #- name: Linkedin
 #  url: http://www.linkedin.com/in/dramor
@@ -14,12 +14,12 @@
 #  title: "Red Social Profesional"
 
 #- name: Soundcloud
-#  url: http://soundcloud.com/phlow
+#  url: http://soundcloud.com/
 #  class: icon-soundcloud
 #  title: "Sounds und Downloads und mehr"
 
 - name: Vimeo
-  url: http://vimeo.com/costiui
+  url: http://vimeo.com/
   class: icon-vimeo
   title: "Vimeo"
 
@@ -29,17 +29,17 @@
 #  title: "Fotos desde el movil"
 
 - name: Flickr
-  url: https://www.flickr.com/photos/costiui/
+  url: https://www.flickr.com/photos/
   class: icon-camera
-  title: "Flickr Costiui"
+  title: "Flickr"
 
 - name: YouTube
-  url: https://www.youtube.com/channel/UCvZo-Y043ipjefFW9ONGJ8A
+  url: https://www.youtube.com/
   class: icon-youtube
   title: "Videos"
   
 - name: Tumblr
-  url: https://costiui.tumblr.com/
+  url: https://tumblr.com/
   class: icon-tumblr
   title: "Tumblr"
   
