@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: showchat.jpg
+  image_fullwidth: showchat.png
 sidebar: right
 
 image_sliders:
