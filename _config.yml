@@ -8,20 +8,20 @@
 #
 #
 # Title of your website
-title: 'Blog Costiui.Net'
+title: 'ShowChat'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Blog Costiui.Net'
+slogan: 'Show Chat Romania'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Coștiui este un sat în comuna Rona de Sus din judeţul Maramureş, Transilvania, România.'
+description: '»Comunitatea Show Chat Romania.'
 
 # The credits show up in the includes/_footer.html
 credits: '<p>Creat cu &hearts; de catre <a href="https://costiui.net/">Costiui.Net</a> bazat pe <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: Costiui
+author: Show-Chat
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Costiui     # Default author for pages
+      author: Show-Chat     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Costiui     # Default author for posts
+      author: Show-Chat     # Default author for posts
 
 
 
@@ -193,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: costiui
-    facebook: costiui.net
+    twitter: showchat
+    facebook: show-chat
 
 
 #        ____  _
