@@ -18,30 +18,30 @@
 #  class: icon-soundcloud
 #  title: "Sounds und Downloads und mehr"
 
-- name: Vimeo
-  url: http://vimeo.com/
-  class: icon-vimeo
-  title: "Vimeo"
+#- name: Vimeo
+#  url: http://vimeo.com/
+#  class: icon-vimeo
+#  title: "Vimeo"
 
 #- name: Instagram
-#  url: http://instagram.com/costiui.ronaszek
+#  url: http://instagram.com/
 #  class: icon-instagram
 #  title: "Fotos desde el movil"
 
-- name: Flickr
-  url: https://www.flickr.com/photos/
-  class: icon-camera
-  title: "Flickr"
+#- name: Flickr
+#  url: https://www.flickr.com/photos/
+#  class: icon-camera
+#  title: "Flickr"
 
-- name: YouTube
-  url: https://www.youtube.com/
-  class: icon-youtube
-  title: "Videos"
+#- name: YouTube
+#  url: https://www.youtube.com/
+#  class: icon-youtube
+#  title: "Videos"
   
-- name: Tumblr
-  url: https://tumblr.com/
-  class: icon-tumblr
-  title: "Tumblr"
+#- name: Tumblr
+#  url: https://tumblr.com/
+#  class: icon-tumblr
+#  title: "Tumblr"
   
 #- name: Pinterest
 #  url: http://www.pinterest.com/phlowmedia/
@@ -49,11 +49,11 @@
 #  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
 
 #- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
+#  url: http://www.mixcloud.com/
 #  class: icon-cloud
 #  title: "Mixe, was sonst?"
 
 # - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
