@@ -11,7 +11,7 @@ image_sliders:
 permalink: /index.html 
 homepage: true 
 ---
-{% include slider.html selector="slider1" %}
+
 
 {% include alert info='Filmari cu drona Costiui' %}
 
