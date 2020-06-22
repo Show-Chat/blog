@@ -6,15 +6,15 @@
   url: "/blog/"
   side: left
   
-- title: "Foto"
-  url: "https://foto.costiui.net"
+- title: "Proiecte"
+  url: "/proiecte/"
   side: right
   
 - title: "About"
-  url: "https://about.costiui.net"
+  url: "https://about.showchat.tk"
   side: right
 
 - title: "Contact"
   icon: mail
-  url: "https://www.costiui.net/contact"
+  url: "https://showchat.tk/contact"
   side: right
