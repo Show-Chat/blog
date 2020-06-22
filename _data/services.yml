@@ -1,9 +1,9 @@
 - menu_name: "Regulament"
 
 - name: "Termeni si conditii"
-  url: "https://www.costiui.net/termeni-si-conditii/"
+  url: "/termeni-si-conditii/"
   title: "Termeni si conditii"
 
 - name: "Politica de Confidentialitate"
-  url: "https://www.costiui.net/politica-de-confidentialitate/"
+  url: "/politica-de-confidentialitate/"
   title: "Politica de Confidentialitate"
