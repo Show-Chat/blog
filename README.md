@@ -1,1 +1,1 @@
-## Simple Blog [Costiui](https://blog.costiui.net) :)
+## Simple Blog [S](https://blog.showchat.tk) :)
