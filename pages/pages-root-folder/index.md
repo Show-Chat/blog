@@ -16,7 +16,7 @@ homepage: true
 
 {% include radio2.html.html %}
 
-{% include alert info='Show Chat Romania' %}
+{% include alert info='ShowChat Romania' %}
 
 <div class="row t60">
     <div class="medium-6 columns b30">
