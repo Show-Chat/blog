@@ -12,10 +12,9 @@ permalink: /index.html
 homepage: true 
 ---
 
+{% include webchat.html %}
 
 {% include alert info='Show Chat Romania' %}
-
-{% include webchat.html %}
 
 <div class="row t60">
     <div class="medium-6 columns b30">
