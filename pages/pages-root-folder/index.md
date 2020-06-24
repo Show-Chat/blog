@@ -2,12 +2,7 @@
 layout: page
 header:
   image_fullwidth: showchat.png
-sidebar: right
 
-image_sliders:
-  - slider1
-  - slider2
-  - slider3
 permalink: /index.html 
 homepage: true 
 ---
