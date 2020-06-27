@@ -14,7 +14,7 @@ homepage: true
 
 {% include webchat.html %}
 
-{% include radio2.html.html %}
+{% include radio2.html %}
 
 {% include alert info='ShowChat Romania' %}
 
